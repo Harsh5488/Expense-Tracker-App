@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="date_ttime">Date \n time</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSearch">Search</string>
+    <string name="discard">Discard</string>
+    <string name="edit">Edit Changes</string>
+    <string name="total_spend">Total Spend:</string>
+    <string name="rs">Rs. /-</string>
+</resources>
